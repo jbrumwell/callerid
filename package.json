@@ -1,0 +1,27 @@
+{
+  "name": "callerid",
+  "version": "0.1.0",
+  "description": "Allows you to retrieve the filename or directory path of the file that has required your file/module.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "traceback": "~0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbrumwell/callerid.git"
+  },
+  "keywords": [
+    "module",
+    "require",
+    "stack"
+  ],
+  "author": "Jason Brumwell",
+  "license": "MIT"
+}
