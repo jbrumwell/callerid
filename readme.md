@@ -1,6 +1,6 @@
 # CallerId
 
-  Allows you to retrieve the filename or directory path of the file that has 
+  Allows you to retrieve the filename or directory path of the file that has required your file/module.
 
 ## Installation
 
